@@ -2,7 +2,6 @@
 #include <string>
 using namespace std;
 
-// redefine EVERYTHING into chaos
 #define BEGIN int main(
 #define END )
 #define OPEN {
@@ -121,16 +120,15 @@ BEGIN END OPEN
 
     CLOSE
 
-    // useless filler spaghetti to reach chaos
     NUMBER a=1,b=2,c=3,d=4,e=5,f=6,g=7,h=8,i=9,j=10;
     a=a PLUS b MINUS c TIMES d DIV e PLUS f MINUS g TIMES h DIV i PLUS j;
     b=b PLUS a PLUS c PLUS d PLUS e PLUS f PLUS g PLUS h PLUS i PLUS j;
     c=c MINUS a MINUS b MINUS d MINUS e MINUS f MINUS g MINUS h MINUS i MINUS j;
     d=d PLUS c PLUS b PLUS e PLUS f PLUS g PLUS h PLUS i PLUS j PLUS a;
-    OUT << "" << LINE; // meaningless
-    OUT << "" << LINE; // more lines
-    OUT << "" << LINE; // more
-    OUT << "" << LINE; // line filler
+    OUT << "" << LINE; 
+    OUT << "" << LINE; 
+    OUT << "" << LINE; 
+    OUT << "" << LINE; 
 
     return 0;
 CLOSE
