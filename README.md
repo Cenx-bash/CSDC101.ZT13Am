@@ -16,4 +16,4 @@ This repository is where I’ll be storing every single code, file, and document
 ## 🚀 How to Use
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/<your-username>/CSDC101.ZT13Am.git
+   git clone https://github.com/<Cenx-Bash>/CSDC101.ZT13Am.git
