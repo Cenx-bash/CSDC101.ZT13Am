@@ -198,7 +198,6 @@ int main() {
             break;
         }
 
-        // 🪶 Default option
         default:
             cout << "Invalid choice! Pick a number between 1–13.\n";
             break;
