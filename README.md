@@ -1,162 +1,67 @@
-📘 CSDC101.ZT13Am - Programming Fundamentals Portfolio
-Welcome to my comprehensive portfolio for CSDC101.ZT13Am - Programming Fundamentals. This repository serves as a centralized hub documenting my journey through programming concepts, problem-solving approaches, and project development.
+# 📘 CSDC101.ZT13Am — Programming Fundamentals Portfolio
 
-🎯 Repository Overview
-This repository organizes all academic work into structured categories, making it easy to track progress and review concepts learned throughout the course.
+Welcome to my comprehensive portfolio for **CSDC101.ZT13Am – Programming Fundamentals**.  
+This repository serves as a centralized hub documenting my journey in programming concepts, problem-solving approaches, and project development throughout the semester.
 
-📁 Directory Structure
-text
-Copy
-Download
+---
+
+## 🎯 Repository Overview
+All academic work is organized into structured categories, making it easy to navigate, review, and track my progress.
+
+---
+
+## 📁 Directory Structure
 CSDC101.ZT13Am/
-├── 📂 assignments/          # Problem sets and graded tasks
-├── 📂 projects/            # Larger applications and capstone work
-├── 📂 labs/               # Hands-on programming exercises
-├── 📂 notes/              # Course notes and concept summaries
-├── 📂 experiments/        # Code snippets and practice programs
-├── 📂 resources/          # Supplementary learning materials
-└── 📂 docs/              # Documentation and write-ups
-🛠️ Technologies & Skills
-Category	Technologies
-Programming Languages	C++, Python, JavaScript
-Tools & Platforms	Git, GitHub, VS Code, Replit
-Concepts	Algorithms, Data Structures, OOP, Problem Solving
-📚 Course Progress Tracker
-🟢 Completed Modules
-Basic Syntax and Control Structures
+├── 📂 assignments/ # Problem sets and graded tasks
+├── 📂 projects/ # Larger applications and capstone work
+├── 📂 labs/ # Hands-on programming exercises
+├── 📂 notes/ # Course notes and summaries
+├── 📂 experiments/ # Code snippets and practice programs
+├── 📂 resources/ # Supplementary learning materials
+└── 📂 docs/ # Documentation and write-ups
 
-Functions and Modular Programming
 
-Loops and Iteration Patterns
+---
 
-Arrays and Collections
+## 🛠️ Technologies & Skills
 
-🟡 Current Focus
-Object-Oriented Programming
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | C++, Python, JavaScript |
+| **Tools** | Git, GitHub, VS Code, Replit |
+| **Concepts** | Algorithms, Data Structures, OOP, Problem Solving |
 
-File I/O Operations
+---
 
-Error Handling and Debugging
+## 📚 Course Progress Tracker
 
-🔴 Upcoming Topics
-Data Structures Implementation
+### ✅ **Completed**
+- Basic Syntax & Control Structures  
+- Functions & Modular Programming  
+- Loops & Iteration Patterns  
+- Arrays & Collections  
 
-Algorithm Optimization
+### 🟡 **In Progress**
+- Object-Oriented Programming (OOP)  
+- File I/O  
+- Error Handling & Debugging  
 
-Final Project Development
+### 🔜 **Next Topics**
+- Data Structures  
+- Algorithm Optimization  
+- Final Project  
 
-🚀 Quick Start
-Prerequisites
-Git installed on your system
+---
 
-C++ compiler (GCC recommended)
+## 🚀 Quick Start (Setup & Usage)
 
-Code editor (VS Code, Sublime Text, etc.)
+### **Requirements**
+- Git  
+- C++ Compiler (GCC recommended)  
+- Code Editor (VS Code, Sublime, etc.)
 
-Installation & Setup
-bash
-Copy
-Download
-# Clone the repository
+### **Installation**
+```bash
 git clone https://github.com/Cenx-Bash/CSDC101.ZT13Am.git
-
-# Navigate to project directory
 cd CSDC101.ZT13Am
-
-# Explore different sections
 ls -la
-📖 How to Navigate This Repository
-For Assignments:
-
-bash
-Copy
-Download
-cd assignments/
-# Browse by week or topic
-ls week_01/
-For Projects:
-
-bash
-Copy
-Download
-cd projects/
-# Each project has its own README with build instructions
-For Quick Reference:
-
-bash
-Copy
-Download
-cd notes/
-# Find summarized concepts and cheat sheets
-💡 Featured Projects
-🔥 Current Highlight: Loops Master Application
-A comprehensive C++ application demonstrating loop structures and algorithmic thinking:
-
-cpp
-Copy
-Download
-// Example from our loops implementation
-for (int i = 1; i <= n; ++i) {
-    cout << "Row " << i << ": ";
-    for (int j = 1; j <= i; ++j) {
-        cout << j << " ";
-    }
-    cout << endl;
-}
-Key Features:
-
-Interactive menu system
-
-Multiple loop pattern demonstrations
-
-Input validation and error handling
-
-Logging and configuration options
-
-📊 Learning Metrics
-Metric	Current Status	Goal
-Projects Completed	8	15+
-Code Commits	45+	100+
-Concepts Mastered	12	25+
-Weekly Activity	10-15 hours	Consistent
-🤝 Contribution & Collaboration
-While this is primarily an academic portfolio, I welcome:
-
-Code reviews and suggestions
-
-Alternative implementation ideas
-
-Study group collaborations
-
-Resource sharing
-
-Note: Please respect academic integrity guidelines when referencing solutions.
-
-📅 Development Workflow
-Weekly Planning - Every Monday, review upcoming topics
-
-Daily Coding - Minimum 1 hour of practical coding
-
-Documentation - Update READMEs and comments regularly
-
-Version Control - Commit with descriptive messages
-
-Review & Refactor - Weekend code review sessions
-
-🎓 Learning Philosophy
-"Code that isn't understood is code that can't be improved."
-
-Every commit includes clear documentation and learning reflections
-
-📞 Contact & Connect
-GitHub: Cenx-Bash
-
-Email: [Your institutional email]
-
-Course Forum: [Moodle/Blackboard link]
-
-📜 License
-This repository is for educational purposes as part of CSDC101.ZT13Am coursework.
-All solutions are personal work unless otherwise noted.
-
-⭐ Pro Tip: Bookmark this README and check back weekly for updates on new projects and learning milestones!
