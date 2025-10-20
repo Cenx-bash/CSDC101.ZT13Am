@@ -2,7 +2,7 @@
 If you are reading this, now even more people can understand it!
 Fixed to match the REAL Fibonacci triangle pattern :)
 */
-//////////////////////////////////////////////////////////////////////////////////////
+//==============================================================================
 /*
 Side Notes
 Oct 18 7:54 pm  - tracing code ano toh babae? dapat ba understanding ka? HUH????
@@ -39,7 +39,7 @@ int main() {
         }
     }
 
-    // Print the beautiful triangle (finally, something that works!)
+    // Print the beautiful triangle 
     for (int i = 0; i < rows; i++) {
         for (int j = 0; j <= i; j++) {
             cout << triangle[i][j] << " "; // print each number with space
@@ -94,8 +94,8 @@ the left of the one above it, following the mathematical definition."
 This shows how the triangle is built
 step-by-step, like life… pero mas logical.
 
-| Step |  i  |  j  | Operation Performed                                     | Result | Row State        |
-|------|-----|-----|---------------------------------------------------------|---------|------------------|
+| Step |  i  |  j  | Operation Performed                                      | Result  | Row State        |
+|------|-----|-----|----------------------------------------------------------|---------|------------------|
 |  1   |  0  |  -  | triangle[0][0] = 1                                       |   1     | 1 0 0 0          |
 |  2   |  1  |  -  | triangle[1][0] = 1                                       |   1     | 1 1 0 0          |
 |  3   |  1  |  -  | triangle[1][1] = triangle[1][0]                          |   1     | 1 1 0 0          |
