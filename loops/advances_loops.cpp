@@ -178,7 +178,6 @@ private:
         cin >> choice;
         input::clear_stdin();
 
-        // CUSTOM REACT
         if (choice == "ME" || choice == "me" || choice == "Me" ||
             choice == "AKO" || choice == "ako" || choice == "Ako") {
 
