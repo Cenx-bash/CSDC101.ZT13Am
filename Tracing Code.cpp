@@ -55,20 +55,13 @@ int main() {
          EXPLANATION OF CODE
 ======================================
 
-OLD CODE (Fibonacci sequence in triangle):
-0
-1 1
-2 3 5
-8 13 21 34
-
-NEW CODE (Actual Fibonacci triangle):
 1
 1 1
 1 2 2
 1 3 5 5
 
 ======================================
- HOW THE NEW CODE WORKS
+ HOW THE CODE WORKS
 ======================================
 
 The REAL Fibonacci triangle follows these rules:
