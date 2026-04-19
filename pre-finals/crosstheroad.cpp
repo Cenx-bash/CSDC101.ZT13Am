@@ -1,6 +1,6 @@
  /*
  ╔══════════════════════════════════════════════════════════════════╗
- ║             CROSSY ROAD — C++ Terminal Edition  v2.0            ║
+ ║             CROSSY ROAD — C++ Terminal Edition  v2.0             ║
  ║        Linked-List Architecture | Monotone ASCII UI              ║
  ╚══════════════════════════════════════════════════════════════════╝
 
