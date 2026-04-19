@@ -1,7 +1,7 @@
 /*
  ╔══════════════════════════════════════════════════════════════════════════╗
- ║          CROSSY ROAD — C++ Terminal Edition  v3.0  "3D Isometric"       ║
- ║   Linked-List Architecture | Isometric ASCII Renderer | ANSI 256-color  ║
+ ║          CROSSY ROAD — C++ Terminal Edition  v3.0  "3D Isometric"        ║
+ ║   Linked-List Architecture | Isometric ASCII Renderer | ANSI 256-color   ║
  ╚══════════════════════════════════════════════════════════════════════════╝
 
   3D isometric projection via ASCII art:
